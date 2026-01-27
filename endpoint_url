@@ -1,0 +1,9 @@
+API Endpoint:
+POST https://adaptively-fibrocartilaginous-monet.ngrok-free.dev/api/chat
+
+
+Request JSON:
+{
+  "message": "User's text",
+  "session_id": "unique_user_id"
+}
