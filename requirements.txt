@@ -7,4 +7,5 @@ pydantic
 langdetect
 numpy
 tqdm
+requests
 python-docx
